@@ -8,11 +8,11 @@ Chicago Rockford International Airport for Lockheed Martin Prepar3d v5. Created 
 3. Delete old version if you have one
 4. Copy the `Chezburger Rockford` folder to your P3D scenery library
 5. Open P3D
-6. Click `Options`
-7. Go to `Scenery Library`
+6. Click "Options"
+7. Go to "Scenery Library"
 8. Hit `Add Area`
 9. Browse for the `Chezburger Rockford` folder
-10. Click `Add`
+10. Click "OK"
 11. Close out of your settings and fly!
 
 I am planning on making an installer in the future, but for now this works.
